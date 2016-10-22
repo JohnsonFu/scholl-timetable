@@ -1,0 +1,9 @@
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\bin\Debug\ClassTable.exe.config
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\bin\Debug\ClassTable.exe
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\bin\Debug\ClassTable.pdb
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.csprojResolveAssemblyReference.cache
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.Form1.resources
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.Properties.Resources.resources
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.csproj.GenerateResource.Cache
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.exe
+D:\NET\WebSite1\WebSite1\ClassTable\ClassTable\obj\Debug\ClassTable.pdb
